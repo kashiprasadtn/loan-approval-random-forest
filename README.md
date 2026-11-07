@@ -91,7 +91,7 @@ Run all cells. Every figure and metrics file in `outputs/` is regenerated (about
 
 - **Dataset:** a 480-row version of the *Loan Prediction* practice dataset (Dream Housing Finance), originally published by Analytics Vidhya and supplied here through upGrad coursework. It is included for educational, non-commercial use and remains the property of its original publisher.
 - **Starter notebook:** the exercise template in `starter/` is upGrad course material, kept unchanged for reference. The analysis in `notebooks/` is my own implementation.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
