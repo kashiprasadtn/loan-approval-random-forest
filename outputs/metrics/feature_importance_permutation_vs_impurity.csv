@@ -1,0 +1,14 @@
+,Permutation (test AUC drop),Std,"Impurity (tuned, train)"
+Credit_History,0.2906,0.0467,0.3289
+Education,0.0126,0.0071,0.0224
+Loan_Amount_Term,0.0034,0.0094,0.0588
+Self_Employed,0.0004,0.0038,0.0146
+Area_Rural,-0.0,0.0084,0.0227
+ApplicantIncome,-0.0015,0.0172,0.1679
+Area_Semiurban,-0.0028,0.0133,0.0305
+Dependents,-0.004,0.007,0.032
+Area_Urban,-0.0042,0.0039,0.0124
+CoapplicantIncome,-0.005,0.0104,0.1013
+Gender,-0.0074,0.0063,0.0201
+Married,-0.0085,0.0104,0.0271
+LoanAmount,-0.0113,0.0192,0.1613

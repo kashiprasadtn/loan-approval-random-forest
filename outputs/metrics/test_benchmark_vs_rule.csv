@@ -1,0 +1,8 @@
+,Credit-history rule,Baseline RF,Tuned RF
+Accuracy,0.833,0.792,0.823
+Precision,0.821,0.838,0.845
+Recall,0.97,0.864,0.909
+F1,0.889,0.851,0.876
+F0.5,0.847,0.843,0.857
+Specificity,0.533,0.633,0.633
+ROC-AUC,0.752,0.801,0.795

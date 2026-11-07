@@ -1,0 +1,9 @@
+,Baseline - Train,Baseline - Test,Tuned - Train,Tuned - Test
+Accuracy,1.0,0.792,0.883,0.823
+Precision,1.0,0.838,0.867,0.845
+Recall,1.0,0.864,0.981,0.909
+F1,1.0,0.851,0.921,0.876
+F0.5,1.0,0.843,0.888,0.857
+Specificity,1.0,0.633,0.661,0.633
+ROC-AUC,1.0,0.801,0.98,0.795
+F0.5 train-test gap,0.157,,0.031,
